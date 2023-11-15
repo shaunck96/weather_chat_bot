@@ -57,8 +57,9 @@ def main():
 
     # Suggested questions
     suggested_questions = [
-        "What's the weather like today?",
-        "Will it rain tomorrow?",
+        "What's the weather like today in Allentown, PA?",
+        "Generate a 10 day weather forecast for Providence, Rhode Island",
+        "Is it going to rain later today in Scranton, PA",
         # ... add more questions here ...
     ]
 
