@@ -33,7 +33,7 @@ def initialize_chatbot():
     }
 
     # Define the path to the local file where you want to save the JSON data
-    file_path = r"C:\Users\307164\Desktop\Weather Chat Bot\weather_agent.json"
+    file_path = r"./weather_agent.json"
 
     # Write the JSON data to the file
     with open(file_path, "w") as json_file:
